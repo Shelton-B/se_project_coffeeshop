@@ -11,6 +11,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Plans for improving the project
 
-Add your ideas here :)
+- Animated background images for each section
+- Include more recipe videos
+- A form to order online for customer pick up
