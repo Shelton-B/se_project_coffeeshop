@@ -41,6 +41,7 @@
   transition: 0.5s ease-in-out;
   display: flex;
   align-items: center;
+  text-decoration: none;
 }
 
 .footer__social-link:hover {
